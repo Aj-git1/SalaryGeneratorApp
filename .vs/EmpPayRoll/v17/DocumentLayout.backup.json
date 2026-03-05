@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment\\EmpPayRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|d:\\assignment\\emppayroll\\emppayroll\\salaryutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|solutionrelative:emppayroll\\salaryutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|d:\\assignment\\emppayroll\\emppayroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|solutionrelative:emppayroll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|d:\\assignment\\emppayroll\\emppayroll\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|solutionrelative:emppayroll\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|d:\\assignment\\emppayroll\\emppayroll\\salaryslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|solutionrelative:emppayroll\\salaryslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|d:\\assignment\\emppayroll\\emppayroll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B039E04-84EA-457E-999E-287CDFDBADA0}|EmpPayRoll\\EmpPayRoll.csproj|solutionrelative:emppayroll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalarySlip.cs",
+              "DocumentMoniker": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\SalarySlip.cs",
+              "RelativeDocumentMoniker": "EmpPayRoll\\SalarySlip.cs",
+              "ToolTip": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\SalarySlip.cs",
+              "RelativeToolTip": "EmpPayRoll\\SalarySlip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:09:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpPayRoll\\Employee.cs",
+              "ToolTip": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\Employee.cs",
+              "RelativeToolTip": "EmpPayRoll\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:09:07.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "EmpPayRoll\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\DatabaseHelper.cs",
+              "RelativeToolTip": "EmpPayRoll\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:07:49.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaryUtility.cs",
+              "DocumentMoniker": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\SalaryUtility.cs",
+              "RelativeDocumentMoniker": "EmpPayRoll\\SalaryUtility.cs",
+              "ToolTip": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\SalaryUtility.cs",
+              "RelativeToolTip": "EmpPayRoll\\SalaryUtility.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:02:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\Program.cs",
+              "RelativeDocumentMoniker": "EmpPayRoll\\Program.cs",
+              "ToolTip": "D:\\Assignment\\EmpPayRoll\\EmpPayRoll\\Program.cs",
+              "RelativeToolTip": "EmpPayRoll\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:59:19.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
